@@ -1,0 +1,138 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    background-size: 100vh;
+    background-size: cover;
+    background-image: url(img/estad.jpg)
+    
+}
+
+
+
+.container{
+    background-color: rgba(255, 252, 252, 0);
+    height: 600px;
+    width: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 6px;
+    
+}
+
+
+
+.caja2 {
+    background-color: rgba(220, 228, 220, 0.103);
+        height: 440px;
+        width: 400px; 
+        justify-content: flex;
+        padding: 22px;
+        display: flex;
+        flex-direction: column;
+       justify-content: center;
+        box-shadow: 10px 2px 71px 21px rgb(0, 0, 0);
+     
+}
+h2{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+
+
+.container2 {
+    background-color: rgba(185, 180, 180, 0.267);
+    height: 340px;
+    width: 360px;
+  display: flex;
+    align-items: center;
+    background-image: url(img/estadio\ Azteca.png);
+         background-repeat: repeat-x;
+         background-size: cover;
+          background-position: center;
+          
+ 
+    
+    }
+    
+
+
+
+
+
+
+
+.caja3 {
+    background-color: rgba(5, 71, 19, 0.945);
+    height: 80px;
+    width: 100px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+   
+    margin-top: 290px;
+     font-family: initial;
+    box-shadow: 10px 2px 71px 21px rgba(0, 0, 0, 0.75);
+    text-shadow: 1px 1px 2px black;
+
+}
+.caja4 {
+background-color: rgba(5, 71, 19, 0.945);
+    height: 80px;
+    width: 100px;
+    margin-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 290px;
+    box-shadow: 10px 2px 71px 21px rgba(0, 0, 0, 0.75);
+    text-shadow: 1px 1px 2px black;
+
+}
+
+.caja5 {
+background-color: rgba(5, 71, 19, 0.945);
+    height: 80px;
+    width: 100px;
+    margin-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 290px;
+    box-shadow: 10px 2px 71px 21px rgba(0, 0, 0, 0.75);
+    text-shadow: 1px 1px 2px black;
+}
+
+.caja6 {
+background-color: rgba(5, 71, 19, 0.945);
+    height: 80px;
+    width: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 290px;
+    box-shadow: 10px 2px 71px 21px rgba(0, 0, 0, 0.75);
+    text-shadow: 1px 1px 2px black;
+
+} 
+
+h4{
+    text-align: center;
+    color: white;
+
+}
+
+.dias,.horas,.minutos,.segundos{
+   align-self:  center;
+    margin-top: 10px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 2px black;
+}
+
+h2{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
